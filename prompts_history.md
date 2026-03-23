@@ -17,3 +17,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:49
 - **Prompt**: Would the ASCII bar display itself in place, so that it looks like an aniamtion, or it going to be a seires of dumps of the state of the list?
 
+### 23-03-2026 14:51
+- **Prompt**: I am interested in the in-place redraw option. Help me implement this. Create the stubs and todos in the main.py
+
