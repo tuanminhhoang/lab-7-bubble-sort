@@ -14,3 +14,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:47
 - **Prompt**: I would like to visualize the sorting as it is happening. First, I would like to explore a terminal based approach. What do you suggest?
 
+### 23-03-2026 14:49
+- **Prompt**: Would the ASCII bar display itself in place, so that it looks like an aniamtion, or it going to be a seires of dumps of the state of the list?
+
