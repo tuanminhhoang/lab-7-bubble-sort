@@ -20,3 +20,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:51
 - **Prompt**: I am interested in the in-place redraw option. Help me implement this. Create the stubs and todos in the main.py
 
+### 29-03-2026 11:18
+- **Prompt**: Suggest me how to highlight the two bars which are being compared
+
