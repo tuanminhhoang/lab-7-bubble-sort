@@ -26,3 +26,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 29-03-2026 11:30
 - **Prompt**: why is my screen flicker everytime the swap happen, how to reduce it?
 
+### 29-03-2026 11:32
+- **Prompt**: is there any other way?
+
