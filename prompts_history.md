@@ -23,3 +23,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 29-03-2026 11:18
 - **Prompt**: Suggest me how to highlight the two bars which are being compared
 
+### 29-03-2026 11:30
+- **Prompt**: why is my screen flicker everytime the swap happen, how to reduce it?
+
